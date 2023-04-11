@@ -169,7 +169,7 @@ function _Home() {
         className={styles.sidebar + ` ${showSideBar && styles["sidebar-show"]}`}
       >
         <div className={styles["sidebar-header"]}>
-          <div className={styles["sidebar-title"]}>ChatGPT</div>
+          <div className={styles["sidebar-title"]}>道路运输企业智能写作</div>
           <div className={styles["sidebar-sub-title"]}>
  ------教程示例------
 如果没有获取到完整信息，输入“继续”会获取信息。
